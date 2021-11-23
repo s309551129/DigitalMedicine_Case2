@@ -9,21 +9,9 @@ You can download the dataset from codalab in-class competition:
 ```
 https://www.kaggle.com/c/digital-medicine-2021-case-presentation-2/data
 ```
-After downloading, the data directory is structured as:
+After downloading, run this command to collect images:
 ```
-${data}
-  +- data
-  +- testing
-  |  +- 0bf034137b04.jpg
-  |  +- 0f30ecaf1e42.jpg
-  |  +- ...
-  +- train
-  |  +- 0a3f63ad5329.jpg
-  |  +- 0a2839a2255d.jpg
-  |  +- ...
-  +- data_info.csv
-  +- move.py
-  +- sample_submission.csv
+python3 move.py
 ```
 # Training
 To train the model, run this command:
