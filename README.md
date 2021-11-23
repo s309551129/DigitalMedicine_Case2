@@ -27,5 +27,5 @@ python3 single_model_eval.py --net model_name
 ```
 # Result
 ```
-F1-score: 0.64761
+Mean F-score: 0.64761
 ```
