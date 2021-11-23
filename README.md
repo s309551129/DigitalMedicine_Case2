@@ -25,3 +25,7 @@ If you want to evaluate a single model, run this command:
 ```
 python3 single_model_eval.py --net model_name
 ```
+# Result
+```
+F1-score: 0.64761
+```
