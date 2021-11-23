@@ -1,5 +1,5 @@
 # DigitalMedicine_Case2
-This repository is about Case2 in the class Digital Medicine, NYCU. The main target is to recognize the pneumonia x-ray images.
+This repository is about Case2 in the class Digital Medicine, NYCU. The main target is to recognize the x-ray images of pneumonia.
 # Environment
 ```
 python==3.8.5
