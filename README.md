@@ -4,6 +4,7 @@ This repository is about Case2 in the class Digital Medicine, NYCU. The main tar
 ```
 python==3.8.5
 pytorch==1.9.1
+```
 # Prepare Dataset
 You can download the dataset from codalab in-class competition:
 ```
